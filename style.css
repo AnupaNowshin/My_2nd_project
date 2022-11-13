@@ -1,0 +1,344 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+@media screen and (max-width: 800px) {
+  .first,.img1,.abc,.Div1,.ghi,.Div2,.ghi1,.ghi2 .jkl,.jkl1,.jkl2,.up,.up1,.up2,.up3 {   
+    width: 100%;
+    padding: 0;
+  }
+}
+@media screen and (max-width: 400px) {
+  .first,.img1,.abc,.about {
+    float: none;
+    width: 100%;
+  }
+}
+/*style the header*/
+.first {
+    background-color: black;
+    height: 600px;
+    width: 50%;
+    border-radius: 30px 0px 0px 30px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+
+.first h1 {
+    font-size: 57px;
+    color: white;
+    padding: 40px 120px 0px 110px;
+   
+}
+.first p {
+    font-size: 15px;
+    color: white;
+    padding: 0px 200px 15px 110px;
+
+}
+.button {
+    background-color:rgb(221, 0, 0);
+    border: none;
+    border-radius: 06px;
+    color: white;
+    padding: 15px 35px 15px 35px;
+    text-decoration: none;
+    margin: 0px 0px 30px 110px;
+    cursor: pointer;
+    font-size: 18px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  
+@keyframes example {
+    0%   {background-color:rgb(221, 0, 0); left:0px; top:0px;}
+    25%  {background-color:rgb(69, 178, 38); left:200px; top:0px;}
+    100% {background-color:rgb(221, 0, 0); left:0px; top:0px;}
+  }
+ 
+  .img1 img {
+    float: left;
+    display: flex;
+    height: 600px;
+    width: 33%;
+    border-radius: 0px 30px 30px 0px;
+    margin-top: 60px;
+  }
+/*style the section*/
+.abc {
+    float: left;
+    width: 295px;
+    height: 293px; 
+    margin: 120px 20px 50px 140px;
+    background-color: black;
+    border-radius: 10px;
+  }
+  
+/* Style the list inside the menu */
+.abc ul {
+    float: left;
+    list-style-type: none;
+   
+  }
+.abc li {
+    display: flex;
+  }
+.abc li a {
+  text-decoration: none;
+  border: none;
+  border-radius: 7px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.abc li a:hover {
+  background-color: rgb(221, 0, 0);
+  color: white;
+}
+.btn1 {
+  background-color: white;
+  color: black;
+  height: 42px;
+  width: 215px;
+  text-align: center;
+  padding-top: 14px;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 27px;
+}
+.btn2 {
+  background-color: white;
+  color: black;
+  height: 42px;
+  width: 215px;
+  text-align: center;
+  padding-top: 14px;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 27px;
+}
+.btn3 {
+  background-color: rgb(221, 0, 0);
+  color: white;
+  height: 42px;
+  width: 215px;
+  text-align: center;
+  padding-top: 14px;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 25px;
+
+}
+/*style the other side of the section*/
+
+.Div1 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-top: 120px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Div1 img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+
+.btn {
+  margin: 15px 0px 4px 17px;
+  padding: 3px 15px 3px 15px;
+  border-radius: 5px;
+  background-color: white;
+  font-family: 'Poppins';
+}
+.Div2 p {
+  padding: 0px 15px 5px 17px;
+  font-family: 'Poppins';
+}
+.ghi {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-left: 456px;
+  float: left;
+}
+
+.ghi img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+.ghi1 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  float: left;
+}
+
+.ghi1 img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+.ghi2 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  float: left;
+}
+
+.ghi2 img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+.jkl {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-left: 456px;
+  float: left;
+}
+
+.jkl img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+.jkl1 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  float: left;
+}
+
+.jkl1 img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+.jkl2 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 350px;
+  width: 295px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 120px;
+  float: left;
+}
+
+.jkl2 img {
+  border-radius: 10px 10px 0px 0px;
+  height: 170px;
+  width: 296px;
+}
+
+/*style the footer*/
+footer {
+  height: 400px;
+  width: 100%;
+  background-color: black;
+  overflow: hidden;
+}
+footer h1 {
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+.about {
+  padding-top: 20px;
+  margin-left: 155px;
+  border-bottom: 2px solid rgb(54, 54, 54);
+  width: 80%;
+}
+footer p {
+  font-size: 16px;
+  padding-left: 320px;
+  padding-top: 30px;
+  color:rgb(159, 159, 159);
+}
+/*style the upcoming page*/
+.up {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 240px;
+  width: 295px;
+  margin-top: 120px;
+  margin-right: 10px;
+  float: left;
+}
+.flag {
+  padding: 50px 30px 0px 30px;
+  border-radius: 10px 10px 0px 0px;
+  display: flex;
+}
+.flag p{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.desc1 h3 {
+  text-align: center;
+  padding-top: 0px;
+
+}
+.desc1 p{
+  text-align: center;
+  font-size: 15px;
+  color: rgb(123, 123, 123);
+  padding-top: 0;
+}
+.up1 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 240px;
+  width: 295px;
+  margin-top: 20px;
+  margin-right: 10px;
+  float: left;
+}
+.up2 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 240px;
+  width: 295px;
+  margin-top: 20px;
+  margin-right: 10px;
+  float: left;
+}
+.up3 {
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  height: 240px;
+  width: 295px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 120px;
+  float: left;
+}
+
+
+
+
