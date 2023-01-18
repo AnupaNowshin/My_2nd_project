@@ -143,6 +143,7 @@ body {
   margin-top: 120px;
   margin-right: 10px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .Div1 img {
@@ -171,6 +172,7 @@ body {
   margin-top: 20px;
   margin-left: 456px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ghi img {
@@ -186,6 +188,7 @@ body {
   margin-right: 10px;
   margin-top: 20px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ghi1 img {
@@ -201,6 +204,7 @@ body {
   margin-right: 10px;
   margin-top: 20px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ghi2 img {
@@ -217,6 +221,7 @@ body {
   margin-top: 20px;
   margin-left: 456px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .jkl img {
@@ -232,6 +237,7 @@ body {
   margin-right: 10px;
   margin-top: 20px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .jkl1 img {
@@ -248,6 +254,7 @@ body {
   margin-top: 20px;
   margin-bottom: 120px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .jkl2 img {
@@ -289,6 +296,7 @@ footer p {
   margin-top: 120px;
   margin-right: 10px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .flag {
   padding: 50px 30px 0px 30px;
@@ -318,6 +326,7 @@ footer p {
   margin-top: 20px;
   margin-right: 10px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .up2 {
   border: 1px solid rgb(240, 240, 240);
@@ -327,6 +336,7 @@ footer p {
   margin-top: 20px;
   margin-right: 10px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .up3 {
   border: 1px solid rgb(240, 240, 240);
@@ -337,6 +347,7 @@ footer p {
   margin-right: 10px;
   margin-bottom: 120px;
   float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
